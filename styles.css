@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+.main_container{
+	padding: 30px;
+	background-color: #f5f5f5;
+}
+
+.testimonial1{
+	padding: 10px;
+	background-color: white;
+	border: 1px solid gray;
+}
+
+.testimonial2{
+	margin-top: 20px;
+	padding: 10px;
+	background-color: white;
+	border: 1px solid gray;
+}
+
+.right{
+	text-align: right;
+	font-style: italic;
+}
